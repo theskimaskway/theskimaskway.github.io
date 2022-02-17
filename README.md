@@ -1,2 +1,2 @@
-# theskimaskway.github.io
-Skimask Incorporated Website
+Skimask Incorporated - Website
+http://skimask.cf/
